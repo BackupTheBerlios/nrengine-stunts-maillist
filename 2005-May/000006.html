@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Nrengine-stunts] Re: [GameDevelopmentSeminar - Stunts 2005] weekly report
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/nrengine-stunts/2005-May/index.html" >
+   <LINK REL="made" HREF="mailto:nrengine-stunts%40lists.berlios.de?Subject=Re%3A%20%5BNrengine-stunts%5D%20Re%3A%20%5BGameDevelopmentSeminar%20-%20Stunts%202005%5D%20weekly%20report&In-Reply-To=%3C200505041640.01561.stud_info2%40yahoo.de%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000009.html">
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Nrengine-stunts] Re: [GameDevelopmentSeminar - Stunts 2005] weekly report</H1>
+    <B>Art Tevs</B> 
+    <A HREF="mailto:nrengine-stunts%40lists.berlios.de?Subject=Re%3A%20%5BNrengine-stunts%5D%20Re%3A%20%5BGameDevelopmentSeminar%20-%20Stunts%202005%5D%20weekly%20report&In-Reply-To=%3C200505041640.01561.stud_info2%40yahoo.de%3E"
+       TITLE="[Nrengine-stunts] Re: [GameDevelopmentSeminar - Stunts 2005] weekly report">stud_info2 at yahoo.de
+       </A><BR>
+    <I>Wed May  4 16:40:01 CEST 2005</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000009.html">[Nrengine-stunts] Telefonnummer
+</A></li>
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#6">[ date ]</a>
+              <a href="thread.html#6">[ thread ]</a>
+              <a href="subject.html#6">[ subject ]</a>
+              <a href="author.html#6">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hi!
+
+&gt;<i> you should really have a look at ODE. it saves us a great deal of work.
+</I>&gt;<i> after seeing what a physics engine can do for us, I am no longer
+</I>&gt;<i> demotivated by the video of the japanese racing game that art has shown
+</I>&gt;<i> us yesterday. instead, now I say &quot;bah! he cheated! he used a physics
+</I>&gt;<i> engine!&quot;
+</I>That's right. As I already said, do no reinvent the wheel again. THis japanese 
+guy has used Newton Physics Engine. This is something like ODE but can only 
+be used on Windows.
+
+&gt;<i> ODE still leaves a lot of work to do for the physics people. now that we
+</I>&gt;<i> can think of our physical world in terms of bodies, joints, collision
+</I>&gt;<i> spaces, collision geometry, etc. the question is what the structure of
+</I>&gt;<i> the physical world in our game should look like.
+</I>&gt;<i> for example: how do we build the physical representation of a car?
+</I>&gt;<i> obviously this can not be done in 3DS. of course it can be hardcoded in
+</I>&gt;<i> C++ code, but we do not want to do that.
+</I>It will be better if you write your own format where you store your 3D-Data 
+and physic properties. 
+
+&gt;<i> let's say we have a 3DS file of a car. it will probably contain multiple
+</I>&gt;<i> separate objects, like weels, etc. these objects probably have names by
+</I>&gt;<i> which they can be referred. now we somehow have to associate each object
+</I>&gt;<i> with a scene graph node and a physics body. we also need to connect the
+</I>&gt;<i> bodies with joints and set the anchor points and axes of the joints. how
+</I>&gt;<i> do we do that? we could specify the coordinates by hand, say in an XML
+</I>&gt;<i> file, but that's ugly (you will agree to me once you have explained to
+</I>&gt;<i> the design people that they will have to calculate and type in
+</I>&gt;<i> coordinates by hand). it would be much nicer if (this is just an idea,
+</I>&gt;<i> if you have a better one, you are welcome), the designer could place
+</I>&gt;<i> some kind of &quot;dummy polygon&quot; in the 3DS scene, which marks the anchor. I
+</I>&gt;<i> don't know how exactly this can be done, but I know that for example in
+</I>&gt;<i> Unreal Tournament this technique was used to mark the points where
+</I>&gt;<i> weapons are attached to player models.
+</I>As I know there is an 3DS-Max Studio plugin where you can do things like this. 
+Other possibility is to create dummy objects with unique names. Your object 
+loader code can than remove this dummy object and replace it by joints, 
+anchor or something else.
+
+bye Art
+
+P.S. As you all already know all of you should be now registered on the 
+nrengine-stunts Mailinglist. So you do not have to write the email to all 
+people just to the mailinglist.
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000009.html">[Nrengine-stunts] Telefonnummer
+</A></li>
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#6">[ date ]</a>
+              <a href="thread.html#6">[ thread ]</a>
+              <a href="subject.html#6">[ subject ]</a>
+              <a href="author.html#6">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/nrengine-stunts">More information about the Nrengine-stunts
+mailing list</a><br>
+</body></html>

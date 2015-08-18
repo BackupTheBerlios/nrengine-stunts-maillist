@@ -1,0 +1,179 @@
+From kai.hagenburg at gmail.com  Wed Apr 20 22:42:47 2005
+From: kai.hagenburg at gmail.com (Kai Uwe Hagenburg)
+Date: Wed, 20 Apr 2005 22:42:47 +0200
+Subject: [Nrengine-stunts] [STORY] Ein paar Ideen
+Message-ID: <64024895050420134261e9e734@mail.gmail.com>
+
+Hallo, 
+ich habe mir mal ein paar Ideen gemacht ?ber das Grundkonzept des
+Spiels. Zuerst mal ein paar grundlegende Szenen, die ich gestern nach
+der Uni auf der Heimfahrt zusammen mit Markus besprochen habe. Danach
+ein paar grundlegende Ideen f?r Spielmodi, etc... und halt eben ein
+erster Storyvorschlag....
+
+
+
+
+Stunts 2005
+
+
+Ideenliste:
+
+-	Szene: Br?cke (?hnlich Golden Gate Bridge etc?), die halb zerst?rt
+ist, mit einigen Hindernissen (z.B. stehengebliebener LKW, Bus, Zug,
+etc., ?hnlich der Eisenbahnbr?cke bei HL2).
+o	Br?cke hat ausserdem L?cher und vor diesen befinden sich
+Sprungschanzen. Bei diesen Spr?ngen muss man auf den Seitenwind
+achten. D.h. wenn man springt, sollte man ein wenig gegensteuern, wenn
+man an dem gr??eren Hindernis vorbeif?hrt, ver?ndert sich f?r einen
+Moment das Fahrgef?hl.
+o	Eines der Spannseile ist gerissen
+-	Szene: Durch etwas durchbrechen. Z.B. gro?en, riesigen Vorhang,
+aufgestapelte Kisten, etc?
+-	Szene: b?ses Tal: Man f?hrt in ein Tal, in dem sich eine Nebelsuppe
+gebildet hat. Dort befinden sich ein paar Fallen.
+
+
+Damit verbunden:
+-	Windsimulation
+-	Fahrphysik abh?ngig von Wind
+-	Einbringen des Tanks: Je voller der Tank, desto schwerer der Wagen,
+desto langsamer.
+-	Schadensmodell, Reperaturbedarf, Motorhaltbarkeit, Reifen,
+Windschatten., verschiedene Oberfl?chenbel?ge (Strasse, Sand, Grass?),
+Sandaufwirbelungen, etc?
+
+
+
+Spielmodi:
+-	Rundrennen (gegen mehrere Gegner)
+-	Zeitrennen (einfaches Rennen, wer als schnellstes eine Strecke gefahren ist)
+-	Stunt Deluxe (viele Stunts)
+-	Hell on Wheels (Erkundungsrennen, in dem es sehr viele Fallen gibt)
+-	Verfolgungsjagd / Storymissionen (vielleicht als Verbund zwischen
+den Strecken)
+
+
+Story:
+Tutorialmissionen, sollen auf die einzelnen Spielmodi vorbereiten
+
+
+San Francisco 2009
+Tom ?TomCat" Sutherland ist ein gefragter, weltbekannter Rennfahrer,
+der bekannt ist f?r seine waghalsigen Man?ver. W?hrend er sich
+normalerweise alle paar Wochen in seinen Bolliden sitzt, um in der
+Formel Stunt sein Geld und seinen Ruhm zu verdienen, lebt daheim seine
+Frau Julie und seine kleine Tochter Kim.
+Der erste Teil sollte dazu dienen, den Charakter und sein Umfeld dem
+Spieler zu zeigen und auch die Spielmodi des Spiels zu zeigen.
+
+10 Jahre sp?ter?
+Aufgrund einer nuklearen Katastrophe (ein Al-Kaida-Trojaner hat die
+Firewalls der Sicherheitssysteme von Kernkraftwerken gehackt und dann
+alle Reaktoren zum Schmelzen gebracht, oder irgendsowas in der
+Richtung halt ?) ist die komplette Westk?ste abgeriegelt und zur
+Todeszone erkl?rt worden (mal wieder *g*, Mad Max f?r Arme halt). Tom
+Sutherland war zu dem Zeitpunkt des Ungl?cks nicht in dem
+Ungl?cksgebiet, aber daf?r seine Tochter, die schwere
+Strahlenverletzungen bekommen hat. Leider hat Tom nicht viel Geld, um
+ihr die n?tigen Operationen und Kuren zu bezahlen, deshalb l?sst er
+sich auf die sogenannten ?Hell Stunts" ein. Dieses ist eine Art
+Wanderzirkus, der Rennen in der Todeszone veranstaltet. Diese werden
+per Hubschrauber-Cam augezeichnet und weltweit ausgestrahlt (Irgendwie
+muss man das ja auch erkl?ren ?).  Nach jedem Rennen kann man ein
+Preisgeld abstauben. Zus?tzlich gibt es noch zus?tzliche Preisgelder
+f?r besonders schnell gefahrene Missionen oder besonders waghalsige
+Stunts. Nach jedem Rennen, besteht die M?glichkeit, an Tankstellen
+oder Werkst?tten zu fahren, um dort zu tanken, irgendwelche Teile zu
+reparieren oder das Auto zu tunen mit Nitro, Nos, oder was weiss ich
+f?r Dinge. Also kein Tuningprofil wie bei NFS:U, wo man einfach nur
+tunt, der Optik wegen, sondern daf?r, dass man gewinnt. Ideen f?r
+weiter Tools w?ren zum Beispiel Dinge, um das Auto robuster zu machen
+oder irgendwelche ?Waffen", um Gegner zur?ckzuwerfen, z.B. Spikes an
+den Reifen, wenn man im ?Nahkampf" dem Gegner die Reifen aufschlitzen
+will, oder z.B. Nadeln, die man auf die Fahrbahn hinten raus wirft.
+Ziel des Spiels ist es dann, den Hells Drivers Cup zu erlangen.
+Ausserdem gibt es noch die M?glichkeit, einzelne Unterpreise zu
+gewinnen (?hnlich dem gr?nen Trikot bei der Tour de France f?r den
+besten Bergfahrer).
+Ne weitere Idee w?re es, marodierende Gruppen in das Spiel zu bringen,
+die versuchen das Rennen zu ver?ndern (als kleine Referenz: die Jawas
+in Episode 1, die versuchen einzelne POD-Racer abzuschie?en, um dann
+deren Metallreste nach dem Crash aufzusammeln)
+
+Globales Design in den Anfangstutorials:
+Die Texturen sollten sehr hell und sehr farbenfroh sein, die Modelle
+sehr detailreich und so, als k?men sie gerade vom Band.
+
+Globales Design im Hauptspiel:
+Farbton-Skala im Bereich von einem sandigen Gelb-Orange-Ton bis zu
+dunkelnen Braun- und Rott?nen. Die Autos sollen sehr verbraucht
+aussehen, wie ein Flickenteppich. Es soll so aussehen, dass sie unter
+Zeitdruck und mit primitivsten Materialien geflickt worden seien. Die
+Umgebung sollte keine pure W?stenlandschaft sein, sondern etwas
+abwechselungsreich. Zum Beispiel Felsencanyons, Br?cken ?ber leere
+Flussbette, zerfallene Metropolen.
+
+
+Vorteil des Szenarios:
+- Man kann mehr oder weniger ohne st?renden Gegenverkehr fahren
+
+Nachteil des Szenarios:
+- M?glichkeit, dass die Umgebung auf Dauer zu eint?nig werden kann
+(kann man aber durch Farbvariationen ?ndern)
+
+
+
+Dies alles sind nur mal ein paar Ideen, die ich so hatte f?r das
+globale Design, bin offen f?r Vorschl?ge und andere Ideen :)
+Euer Kai
+
+P.S. sollten wir auf deutsch oder auf englisch schreiben?
+
+
+From kai.hagenburg at gmail.com  Sun Apr 24 14:15:09 2005
+From: kai.hagenburg at gmail.com (Kai Uwe Hagenburg)
+Date: Sun, 24 Apr 2005 14:15:09 +0200
+Subject: [Nrengine-stunts] [PHYSICS] some links
+Message-ID: <640248950504240515440cc688@mail.gmail.com>
+
+Hi,
+I just browsed throug the web, in order to find some information for
+the physics people. I hope these links will probably help a bit
+
+http://home.planet.nl/~monstrous/tutcar.html
+http://www.welltall.com/ymc/discovery/car_physics.html
+http://www.racer.nl/reference/carphys.htm
+http://www.div-arena.com/dwip.phtml?val=161
+http://www.3impact.com/3Impact_Engine/hulk7123/simplecar.htm
+
+Bye
+Kai
+
+
+From kai.hagenburg at gmail.com  Sun Apr 24 14:17:37 2005
+From: kai.hagenburg at gmail.com (Kai Uwe Hagenburg)
+Date: Sun, 24 Apr 2005 14:17:37 +0200
+Subject: [Nrengine-stunts] Re: [PHYSICS] some links
+In-Reply-To: <640248950504240515440cc688@mail.gmail.com>
+References: <640248950504240515440cc688@mail.gmail.com>
+Message-ID: <6402489505042405174b79b2e7@mail.gmail.com>
+
+and another one
+
+http://www.flashforum.de/forum/archive/index.php/t-145674.html
+
+
+From kai.hagenburg at gmail.com  Sun Apr 24 14:19:30 2005
+From: kai.hagenburg at gmail.com (Kai Uwe Hagenburg)
+Date: Sun, 24 Apr 2005 14:19:30 +0200
+Subject: [Nrengine-stunts] Re: [PHYSICS] some links
+In-Reply-To: <6402489505042405174b79b2e7@mail.gmail.com>
+References: <640248950504240515440cc688@mail.gmail.com>
+	 <6402489505042405174b79b2e7@mail.gmail.com>
+Message-ID: <64024895050424051964729a0b@mail.gmail.com>
+
+sorry... a last one :)
+http://thesprayshop.net/tutorials/tut_car_physics.shtml
+
+
